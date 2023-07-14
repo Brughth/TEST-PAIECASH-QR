@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "825331287625",
+    "project_id": "test-paiecash-qr",
+    "storage_bucket": "test-paiecash-qr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825331287625:android:c9ce1cc0d400d4e615a198",
+        "android_client_info": {
+          "package_name": "com.example.test_paiecash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825331287625-c7qct47cfl0epeafuh22bgdip9p5jap4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3SeY0wD3IJMm3YdmvTYzz7r2Im_N1CYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825331287625-c7qct47cfl0epeafuh22bgdip9p5jap4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825331287625-n8i9igdcr6ic52n25iq0bop74lr7dgpb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testPaiecash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
